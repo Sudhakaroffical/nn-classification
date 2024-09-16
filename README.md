@@ -42,8 +42,7 @@ Using the DL model predict some random inputs
 
 ## PROGRAM
 
-### Name: SUDHAKAR K
-### Register Number: 212222240107
+### Name: SUDHAKAR K  Register Number: 212222240107
 
 ```python
 import pandas as pd
